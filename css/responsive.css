@@ -1,0 +1,36 @@
+/* Small Devices */
+@media only screen and (max-width: 767px){
+    
+}
+
+
+/* Small Devices And Tablet */
+@media only screen and (max-width: 768px){
+     .navbar-default {
+        display: none;
+    } 
+    .home {
+        width: 100%;
+        margin-top: 0px;
+        margin-right: 0px;
+        padding-right: 0px;
+    }
+    .2shape {
+        display: none;
+    }
+    .button-footer {
+        
+    }
+}
+
+
+/* Medium Devices and Desktop */
+@media only screen and (max-width: 767px){
+    
+    
+    
+}
+/* Large Devices and Wide Screen */
+@media only screen and (max-width: 767px){
+    
+}
